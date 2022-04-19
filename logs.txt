@@ -1,0 +1,8 @@
+2022-04-19 17:46:26,302 INFO     [myprogram.py:23] Required package spacy already installed.
+2022-04-19 17:46:26,799 INFO     [myprogram.py:23] Required package bs4 already installed.
+2022-04-19 17:46:26,799 INFO     [myprogram.py:27] Downloading en_core_web_sm for spaCy operations...
+2022-04-19 17:46:31,037 INFO     [myprogram.py:29] en_core_web_sm downloaded.
+2022-04-19 17:46:32,175 INFO     [myprogram.py:51] Reading text.txt.
+2022-04-19 17:46:32,208 INFO     [myprogram.py:67] Matches completed.
+2022-04-19 17:46:32,311 INFO     [myprogram.py:101] Writing results to output.html.
+2022-04-19 17:46:32,311 INFO     [myprogram.py:105] Script finished.
